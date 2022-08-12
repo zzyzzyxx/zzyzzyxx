@@ -71,19 +71,35 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a>  
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> </p>      
+   <br>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop"
+      width="40" height="40" /> </a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="premiere"
+      width="40" height="40" /> </a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611014.png?token=exp=1660320314~hmac=1c37a32f0a599673e459c24b796df641" alt="aftereffects"
+      width="40" height="40" /> </a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968435.png" alt="animate"
+      width="40" height="40" /> </a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968453.png" alt="characteranimator"
+      width="40" height="40" /> </a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="adobexd"
+      width="40" height="40" /> </a>
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistics:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=zzyzzyxx&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="zzyzzyxx" 
