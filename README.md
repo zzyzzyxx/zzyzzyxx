@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Wrobel</h1>
+<h2 align="center">zzyzzyxx</h2>
 <h3 align="center">2022 Graduate @ Roehampton University (UK)🌟.</h3>
+<h3 align="center">2022 Graduate @ Coders Campus Bootcamp (CAN)🌟.</h3>
 
 <br>
 
@@ -9,7 +11,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="zzyzzyxx" /></p>
 
 
 - 🌱 I’m currently learning Full Stack Java Web Development at Coders Campus Bootcamp
