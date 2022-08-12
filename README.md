@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Wrobel</h1>
 <h2 align="center">zzyzzyxx</h2>
+<h2 align="center">www.sebastianwrobel.com</h2>
 <h3 align="center">2022 Graduate @ Roehampton University (UK)🌟.</h3>
 <h3 align="center">2022 Graduate @ Coders Campus Bootcamp (CAN)🌟.</h3>
 
@@ -16,7 +17,7 @@
 
 - 🌱 I’m currently learning Full Stack Java Web Development at Coders Campus Bootcamp
 
-- 📫 How to reach me **wrobelsp@gmail.com**
+- 📫 Reach me: **wrobelsp@gmail.com**
 
 - ⚡ <i>There is no planet <b>B</b></i>.
 
