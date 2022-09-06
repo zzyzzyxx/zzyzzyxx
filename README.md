@@ -85,7 +85,7 @@
       src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="premiere"
       width="40" height="40" /> </a>
 <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
-      src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611014.png?token=exp=1660320314~hmac=1c37a32f0a599673e459c24b796df641" alt="aftereffects"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="aftereffects"
       width="40" height="40" /> </a>
 <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/5968/5968435.png" alt="animate"
