@@ -2,7 +2,7 @@
 <h2 align="center">zzyzzyxx</h2>
 <h2 align="center">www.sebastianwrobel.com</h2>
 <h3 align="center">2022 Graduate @ Roehampton University (UK)🌟.</h3>
-<h3 align="center">2022 Graduate @ Coders Campus Bootcamp (CAN)🌟.</h3>
+<h3 align="center">2023 Graduate @ Coders Campus Bootcamp (CAN)🌟.</h3>
 
 <br>
 
