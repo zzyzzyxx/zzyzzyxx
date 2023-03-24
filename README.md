@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/sebamelon1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="sebastian zzyzzyxx wrobel" height="30" width="40" /></a>
- /* <a href="" target="blank"><img align="center"
+ <! -- <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="sebastian zzyzzyxx wrobel" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center"
@@ -39,7 +39,7 @@
       alt="sebastian zzyzzyxx wrobel" height="30" width="40" /></a>
  <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="sebastian zzyzzyxx wrobel" height="30" width="40" /></a> */
+      alt="sebastian zzyzzyxx wrobel" height="30" width="40" /></a> -->
 </p>
 
 <br>
@@ -84,7 +84,7 @@
 <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="premiere"
       width="40" height="40" /> </a>
-/* <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
+<! -- <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="aftereffects"
       width="40" height="40" /> </a>
 <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
@@ -95,7 +95,7 @@
       width="40" height="40" /> </a>
 <a href="https://www.adobe.com/uk/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="adobexd"
-      width="40" height="40" /> </a> */
+      width="40" height="40" /> </a> -->
 
 <br>
 
