@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Wrobel</h1>
 <h2 align="center">zzyzzyxx</h2>
-<h2 align="center">https://cv.sebastianwrobel.repl.co</h2>
+<h2 align="center"><a href="https://cv.sebastianwrobel.repl.co" target="blank">CV and Portfolio</a></h2>
 <h3 align="center">2022 Graduate @ Roehampton University (UK)🌟.</h3>
 <h3 align="center">2023 Graduate @ Coders Campus Bootcamp (CAN)🌟.</h3>
 
